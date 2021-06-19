@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ruach-FE"
+  "defaultProject": "ruach-FE",
+  "cli": {
+    "analytics": false
+  }
 }
